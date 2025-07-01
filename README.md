@@ -1,2 +1,2 @@
-# expense-tracker
-simple command-line personal expense tracker built in Python.
+# Coding Based SociaLMedia
+simple command-line social media 
